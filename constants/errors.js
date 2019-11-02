@@ -1,0 +1,16 @@
+exports.INTERNAL_SERVER_ERROR = "Error Interno del Servidor";
+exports.UNAUTHORIZED = "No Autorizado";
+exports.FORBIDDEN = "Se Necesita Autentificación";
+exports.EMAIL_NOT_FOUND = "El E-mail No Existe";
+exports.PASSWORD_BAD_REQUEST = "Contraseña Invalida";
+exports.BAD_REQUEST = "Problemas con la Solicitud";
+exports.EMAIL_FORMAT = "Problemas con el Formato del E-mail";
+exports.PASSWORD_EMPTY = "Contraseña Vacia";
+exports.NAME_LENGTH = "El Nombre Debe Tener Entre 1 y 255 Caracteres";
+exports.ID_INT = "El ID Debe Ser Numérico Mayor a 1";
+exports.OBJECT_NOT_FOUND = "No Encontrado el(la) {object} Solicitado(a)";
+exports.OBJECT_NOT_UPDATED = "No se ha Actualizado el(la) {object} Solicitado(a)";
+exports.OBJECT_NOT_DELETED = "No se ha Eliminado el(la) {object} Solicitado(a)";
+exports.IMAGE_FORMAT = "La Imagen Debe Ser JPG, JPEG o PNG";
+exports.DESCRIPTION_EMPTY = "Debe Colocar una Descripción";
+exports.FILE_FORMAT = "El Archivo Debe ser PDF";
